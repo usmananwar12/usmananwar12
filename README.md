@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Travel Management System](https://github.com/usmananwar12/Travel-Management-System)
 
-- 👨‍💻 All of my projects are available at [https://github.com/usmananwar12/portfolio](https://github.com/usmananwar12/portfolio)
+- 👨‍💻 All of my projects are available at [usmananwar12.github.io/portfolio](https://usmananwar12.github.io/portfolio/)
 
 - 📫 How to reach me **usmananwar9957@gmail.com**
 
